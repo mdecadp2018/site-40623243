@@ -27,15 +27,27 @@
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181109014955.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181109014955.2"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181109015229.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181109015605.1"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181109015229.2"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181109015603.1"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181109015601.1"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181109015559.1"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181109015555.1"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181109015437.2"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -129,7 +141,7 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623243](http://lab.kmol.info/)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
@@ -326,5 +338,73 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181109014955.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109014955.2">## week1
+
+講解onshape的基本概念
+本學期上課內容
+並告訴我們有網路的狀態下是要共同協同的，沒網路的話自己要獨立作業</t>
+<t tx="leo.20181109015229.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109015229.2">## week3
+
+中秋節放假</t>
+<t tx="leo.20181109015437.2">## week8
+
+學習要點
+
+*說明機電資整合設計專案流程所需的相關套件運用與技術
+*開始找期末分組隊友。</t>
+<t tx="leo.20181109015555.1">## week7
+
+學習要點
+
+如何建立一個虛擬倉儲</t>
+<t tx="leo.20181109015559.1">## week6
+
+學習要點
+
+*如何編輯與維護投影片</t>
+<t tx="leo.20181109015601.1">## week5
+
+學習要點
+
+工程圖紙簡介
+創建圖紙視圖，尺寸標註，公差，註釋（視圖，尺寸，公差，筆記）
+使用格式/模板
+介紹GTOL / GD＆T</t>
+<t tx="leo.20181109015603.1">## week4
+
+學習要點
+
+關於自由度的課程（自由度）
+部件配合介紹（Assembly Mates）
+配對連接器（Mate Connectors）
+使用三重軸操縱零件位置（用三合一操縱零件位置）
+解釋配合和關係（Mates and Relations）
+動畫配合（Animating Mates）
+鏈接文檔簡介
+配合應用限制</t>
+<t tx="leo.20181109015605.1">## week2
+
+學習要點
+
+簡單講解ShareX
+如何領取個人作業倉儲</t>
 </tnodes>
 </leo_file>
