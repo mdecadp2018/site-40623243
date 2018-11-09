@@ -15,12 +15,12 @@
 </summary><content type="html">&lt;p&gt;github上在維護作業該怎麼辦&lt;/p&gt;
 
 
-&lt;p&gt;課程內容
-因為這週github可能在維護，所以今天講解了該如何建立一個虛擬主機以及示範。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week6</title><link href="https://mdecourse.github.io/site-40623243/blog/2018-Fall-Project-Blog7.html" rel="alternate"></link><published>2018-10-15T00:00:00+08:00</published><updated>2018-10-15T00:00:00+08:00</updated><author><name>40623243</name></author><id>tag:mdecourse.github.io,2018-10-15:/site-40623243/blog/2018-Fall-Project-Blog7.html</id><summary type="html">&lt;p&gt;week6&lt;/p&gt;
+&lt;p&gt;課程內容&lt;/p&gt;
+&lt;p&gt;因為這週github可能在維護，所以今天講解了該如何建立一個虛擬主機以及示範。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week6</title><link href="https://mdecourse.github.io/site-40623243/blog/2018-Fall-Project-Blog7.html" rel="alternate"></link><published>2018-10-15T00:00:00+08:00</published><updated>2018-10-15T00:00:00+08:00</updated><author><name>40623243</name></author><id>tag:mdecourse.github.io,2018-10-15:/site-40623243/blog/2018-Fall-Project-Blog7.html</id><summary type="html">&lt;p&gt;week6&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;week6&lt;/p&gt;
 
 
-&lt;p&gt;學習要點：&lt;/p&gt;
+&lt;p&gt;學習要點&lt;/p&gt;
 &lt;p&gt;以更新lab-booking-cdlab倉儲內容為例，說明管理內容流程&lt;/p&gt;
 &lt;p&gt;升級最新的CMSimfly倉儲中的flaskapp.py&lt;/p&gt;
 &lt;p&gt;創建團隊&lt;/p&gt;
@@ -28,35 +28,39 @@
 </summary><content type="html">&lt;p&gt;練習onshape 2-1&lt;/p&gt;
 
 
-&lt;p&gt;課程內容
-學習要點
-1. 建立Onshape帳號 - 請利用學校gmail 
-2. 建立教育版帳號3D環境導航（導航）
+&lt;p&gt;課程內容&lt;/p&gt;
+&lt;p&gt;學習要點&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;建立Onshape帳號 - 請利用學校gmail &lt;/li&gt;
+&lt;li&gt;建立教育版帳號3D環境導航（導航）
 3。說明基於草圖（sketch-based）的建模
-4.介紹4個基本特徵（features）（擠出） （擠出），旋轉（旋轉），掃描（掃描），和斷面混成（麵包））
-5. 從2D過渡到3D 
-6. 介紹基本草圖
-7. 附錄A：鍵盤快捷鍵（鍵盤快捷鍵），滑鼠和觸控平面手勢（touchpad gestures），檢視工具
-8. 附錄B：導航說明檔，建立帳號，訂閱計劃（訂閱計劃）
-9. 圓柱薄殼（圓柱殼） - 繪圖界面與可視化/檢視的介紹
-10. 針對既有草圖的模型 - 接續建立特徵
-11. 現存公用模型（public models） - 如何搜尋並複製到工作區（workspace）&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="https://mdecourse.github.io/site-40623243/blog/2018-Fall-Project-Blog5.html" rel="alternate"></link><published>2018-10-01T00:00:00+08:00</published><updated>2018-10-01T00:00:00+08:00</updated><author><name>40623243</name></author><id>tag:mdecourse.github.io,2018-10-01:/site-40623243/blog/2018-Fall-Project-Blog5.html</id><summary type="html">&lt;p&gt;練習onshape 1-1&lt;/p&gt;
+4.介紹4個基本特徵（features）（擠出） （擠出），旋轉（旋轉），掃描（掃描），和斷面混成（麵包））&lt;/li&gt;
+&lt;li&gt;從2D過渡到3D &lt;/li&gt;
+&lt;li&gt;介紹基本草圖&lt;/li&gt;
+&lt;li&gt;附錄A：鍵盤快捷鍵（鍵盤快捷鍵），滑鼠和觸控平面手勢（touchpad gestures），檢視工具&lt;/li&gt;
+&lt;li&gt;附錄B：導航說明檔，建立帳號，訂閱計劃（訂閱計劃）&lt;/li&gt;
+&lt;li&gt;圓柱薄殼（圓柱殼） - 繪圖界面與可視化/檢視的介紹&lt;/li&gt;
+&lt;li&gt;針對既有草圖的模型 - 接續建立特徵&lt;/li&gt;
+&lt;li&gt;現存公用模型（public models） - 如何搜尋並複製到工作區（workspace）&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="https://mdecourse.github.io/site-40623243/blog/2018-Fall-Project-Blog5.html" rel="alternate"></link><published>2018-10-01T00:00:00+08:00</published><updated>2018-10-01T00:00:00+08:00</updated><author><name>40623243</name></author><id>tag:mdecourse.github.io,2018-10-01:/site-40623243/blog/2018-Fall-Project-Blog5.html</id><summary type="html">&lt;p&gt;練習onshape 1-1&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;練習onshape 1-1&lt;/p&gt;
 
 
-&lt;p&gt;課程內容
-學習要點
-1. 建立Onshape帳號 - 請利用學校gmail 
-2. 建立教育版帳號3D環境導航（導航）
+&lt;p&gt;課程內容&lt;/p&gt;
+&lt;p&gt;學習要點&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;建立Onshape帳號 - 請利用學校gmail &lt;/li&gt;
+&lt;li&gt;建立教育版帳號3D環境導航（導航）
 3。說明基於草圖（sketch-based）的建模
-4.介紹4個基本特徵（features）（擠出） （擠出），旋轉（旋轉），掃描（掃描），和斷面混成（麵包））
-5. 從2D過渡到3D 
-6. 介紹基本草圖
-7. 附錄A：鍵盤快捷鍵（鍵盤快捷鍵），滑鼠和觸控平面手勢（touchpad gestures），檢視工具
-8. 附錄B：導航說明檔，建立帳號，訂閱計劃（訂閱計劃）
-9. 圓柱薄殼（圓柱殼） - 繪圖界面與可視化/檢視的介紹
-10. 針對既有草圖的模型 - 接續建立特徵
-11. 現存公用模型（public models） - 如何搜尋並複製到工作區（workspace）&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week3</title><link href="https://mdecourse.github.io/site-40623243/blog/2018-Fall-Project-Blog4.html" rel="alternate"></link><published>2018-09-24T00:00:00+08:00</published><updated>2018-09-24T00:00:00+08:00</updated><author><name>40623243</name></author><id>tag:mdecourse.github.io,2018-09-24:/site-40623243/blog/2018-Fall-Project-Blog4.html</id><summary type="html">&lt;p&gt;week3&lt;/p&gt;
+4.介紹4個基本特徵（features）（擠出） （擠出），旋轉（旋轉），掃描（掃描），和斷面混成（麵包））&lt;/li&gt;
+&lt;li&gt;從2D過渡到3D &lt;/li&gt;
+&lt;li&gt;介紹基本草圖&lt;/li&gt;
+&lt;li&gt;附錄A：鍵盤快捷鍵（鍵盤快捷鍵），滑鼠和觸控平面手勢（touchpad gestures），檢視工具&lt;/li&gt;
+&lt;li&gt;附錄B：導航說明檔，建立帳號，訂閱計劃（訂閱計劃）&lt;/li&gt;
+&lt;li&gt;圓柱薄殼（圓柱殼） - 繪圖界面與可視化/檢視的介紹&lt;/li&gt;
+&lt;li&gt;針對既有草圖的模型 - 接續建立特徵&lt;/li&gt;
+&lt;li&gt;現存公用模型（public models） - 如何搜尋並複製到工作區（workspace）&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2018Fall"></category></entry><entry><title>Week3</title><link href="https://mdecourse.github.io/site-40623243/blog/2018-Fall-Project-Blog4.html" rel="alternate"></link><published>2018-09-24T00:00:00+08:00</published><updated>2018-09-24T00:00:00+08:00</updated><author><name>40623243</name></author><id>tag:mdecourse.github.io,2018-09-24:/site-40623243/blog/2018-Fall-Project-Blog4.html</id><summary type="html">&lt;p&gt;week3&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;week3&lt;/p&gt;
 
 
@@ -64,8 +68,8 @@
 </summary><content type="html">&lt;p&gt;簡單講解ShareX和領取個人作業倉儲&lt;/p&gt;
 
 
-&lt;p&gt;課程內容
-1.到mde.tw&amp;gt; i&amp;gt; week2&amp;gt;領取個人倉儲作業（在mdecadp2018下的站點-40623243）&lt;/p&gt;
+&lt;p&gt;課程內容&lt;/p&gt;
+&lt;p&gt;1.到mde.tw&amp;gt; i&amp;gt; week2&amp;gt;領取個人倉儲作業（在mdecadp2018下的站點-40623243）&lt;/p&gt;
 &lt;p&gt;2.在site-40623243的設置&amp;gt;分支&amp;gt;把分支改為gh-pages&lt;/p&gt;
 &lt;p&gt;3.閱讀及練習OnShape，更新網站內容&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecourse.github.io/site-40623243/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecourse.github.io,2018-09-10:/site-40623243/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
@@ -83,8 +87,8 @@
 </summary><content type="html">&lt;p&gt;week1&lt;/p&gt;
 
 
-&lt;p&gt;課程內容
-1.建立一個屬於自己的倉儲&lt;/p&gt;
+&lt;p&gt;課程內容&lt;/p&gt;
+&lt;p&gt;1.建立一個屬於自己的倉儲&lt;/p&gt;
 &lt;p&gt;2.講解onshap是可以把設計的權力下放給每個使用者，而不只是特定的設計工程師，也可以讓AutoCAD，Inventor，SolidWork等等的繪圖軟體匯入。&lt;/p&gt;
 &lt;p&gt;3.然後學到python wsgi.py指令才能進入近端（https：// localhost：8443），對自己的網誌進行修改&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecourse.github.io/site-40623243/blog/2018-Fall-Project-Blog1.html" rel="alternate"></link><published>2018-08-10T00:00:00+08:00</published><updated>2018-08-10T00:00:00+08:00</updated><author><name>40623243</name></author><id>tag:mdecourse.github.io,2018-08-10:/site-40623243/blog/2018-Fall-Project-Blog1.html</id><summary type="html">&lt;p&gt;2018秋季開始將網際內容管理，投影片與網誌進行整合。&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018秋季開始將網際內容管理，投影片與網誌進行整合。&lt;/p&gt;
